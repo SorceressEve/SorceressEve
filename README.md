@@ -1,7 +1,7 @@
 ## 🔮 Heyo! I'm Sorceress Eve! 🔮 
 - Pronouns: She/her
-- I am currently a Uni Student, studying a Diploma in IT
-- I am fairly terrible at coding overall, maybe a solid 1.5/10
+- Somehow graduated Uni with a Diploma in IT
+- I am fairly terrible at coding overall, maybe a solid 2/10
 
 <!--
 **SorceressEve/SorceressEve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
