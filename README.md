@@ -2,6 +2,7 @@
 - Pronouns: She/her
 - Somehow graduated Uni with a Diploma in IT
 - I am fairly terrible at coding overall, maybe a solid 2/10
+- Currently learning Python, HTML, CSS, and JavaScript
 
 <!--
 **SorceressEve/SorceressEve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
